@@ -1,0 +1,8 @@
+line1 строка 1
+line2 строка 2
+line3 строка 3
+/**
+ * Created by IntelliJ IDEA.<br/>
+ * User: user<br/> Date: 22.09.2021<br/> Time: 18:30<br/>
+ * To change this template use File | Settings | File Templates.
+ */
