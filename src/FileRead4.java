@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 public class FileRead4 {
     public static void main(String[] args) throws IOException {
 
-        Files.lines(Paths.get("file.txt")).forEach(System.out::println);
+        Files.lines(Paths.get("file2.txt")).forEach(System.out::println);
 
     }
 }
